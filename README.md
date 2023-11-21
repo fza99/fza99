@@ -1,8 +1,6 @@
 - 👋 Hi, I’m EL Amrani Fatima Zahrae
-- 👀 I’m interested in web 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm a QA Engineer 
+
 
 <!---
 fza99/fza99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
