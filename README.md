@@ -8,7 +8,7 @@ I have 3+ years of experience in both manual and automated testing, covering var
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-selenium%20web%20driver-05122A?style=flat&logo=selenium)&nbsp;
+![Selinium](https://img.shields.io/badge/-Selenium%20web%20driver-05122A?style=flat&logo=selenium)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
