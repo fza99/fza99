@@ -8,7 +8,7 @@ I have 3+ years of experience in both manual and automated testing, covering var
 ‼️ Projects
 
 
-⚙️ Technical skills
+**⚙️ **Technical skills****
 Selenium
 Robotframework
 Java
@@ -20,7 +20,8 @@ Writing test scenarios and test cases
 Reporting bugs
 Test automation
 
-📜 Certificates
+
+**📜 Certificates**
 SQL (Basic) - HackerRank
 SQL - TestDome
 🛠️ Tools
@@ -34,19 +35,18 @@ Bug Magnet - exploratory testing assistant
 PageSpeed Insights - Core Web Vitals assessment
 Trello - visual project management tool
 AZ Screen Recorder - screen recorder for Android devices
-🖥️ Online Courses
-Selenium Java od podstaw
-Postman - testowanie REST API
-HarvardX - CS50's Introduction to Computer Science
-Software Testing Tools Every QA Should Know
-Intro to the Manual Software Testing Interview (Q&A for QA)
-📖 Books
+
+**🖥️ Online Courses**
+
+
+**📖 Books**
 R. Smilgin - Zawód tester
 A. Roman - Testowanie i jakość oprogramowania
 A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
 A. Hunt, D. Thomas - Pragmatyczny programista. Od czeladnika do mistrza
-B. Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko
-💻 Blogs
+B. Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie 
+
+**💻 Blogs**
 testerzy.pl
 testuj.pl
 remigiuszbednarczyk.pl
@@ -57,7 +57,8 @@ thetesteye.com
 jaknauczycsieprogramowania.pl
 How Web Works
 OSSU - Computer Science
-🌐 Websites
+
+**🌐 Websites**
 HackerRank (profile)
 uTest
 W3Schools
