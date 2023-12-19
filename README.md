@@ -1,4 +1,4 @@
-# :briefcase: Portfolio - Robert Fatima Zahrae EL AMRANI
+# :briefcase: Portfolio - Fatima Zahrae EL AMRANI
 ## :eye: About me
 As a Software QA Engineer, I am responsible for creating, executing, and automating test cases and scenarios for web-based applications, using tools such as Selenium, Java. I work with a scrum team to ensure that the product meets user story and design intent, and I review test results and spot check for efficiency and coverage.
 
