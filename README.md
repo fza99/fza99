@@ -1,6 +1,6 @@
 # :briefcase: Portfolio - Fatima Zahrae EL AMRANI
 
-🚀 **QA Automation Engineer | Continuous Learner | Code Quality Enthusiast | DevOps Enthusiast**
+🚀 **QA Automation Engineer | Continuous Learner | Code Quality Enthusiast | DevOps Advocate**
 
 👋 Hi there! I'm Fatima Zahrae, a passionate QA Automation Engineer with a knack for ensuring software quality through automated testing. I thrive in dynamic environments and am always eager to embrace new technologies and methodologies.
 
@@ -22,7 +22,7 @@ I have 3+ years of experience in both manual and automated testing, covering var
 - Frameworks: ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-05122A?style=flat&logo=Robot%20Framework)&nbsp;
               ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
               
-- CI/CD: ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
+- DevOps Tools: ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
          ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=GitLab%20CI)&nbsp;
          ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
          ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -37,11 +37,19 @@ I have 3+ years of experience in both manual and automated testing, covering var
 
  - Quality code: ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=SonarQube)
                  ![Metrics](https://img.shields.io/badge/-metrics-05122A?style=flat&logo=metrics)
-                         
 
+## 📚 **Education:**
+- Software Engineer, ENSIAS-Morocco
 
+## 🏆 **Key Achievements:**
+- Successfully implemented automated test suites integrated into CI/CD pipelines, resulting in a [Percentage]% reduction in release cycles.
+- Introduced and advocated for a culture of collaboration between QA and DevOps teams, fostering a more streamlined development lifecycle.
+  
 ## :scroll: Certificates
 * ISTQB Certified Tester Foundation Level
+
+## 🌐 **DevOps Philosophy:**
+Believer in the philosophy that testing should be an integral part of the DevOps lifecycle. Continuously exploring ways to optimize testing processes within the CI/CD pipeline to enhance software delivery efficiency.
 
 ## :hammer_and_wrench: Tools
 * [Postman](https://www.postman.com) - testing tool for REST API
@@ -54,4 +62,11 @@ I have 3+ years of experience in both manual and automated testing, covering var
 * [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals assessment
 * [Trello](https://trello.com) - visual project management tool
 * [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&pcampaignid=web_share) - screen recorder for Android devices
+
+## 🔍 **Continuous Learning:**
+I'm always on the lookout for the latest advancements in QA and automation. Currently exploring Continuous testing to enhance my skills to further bridge the gap between QA and DevOps.
+
+## 📣 **Let's Connect:**
+- LinkedIn: https://www.linkedin.com/in/fatima-zahrae-el-amrani-09a685159/
+- Blog: https://medium.com/@fz.elamrani7
 
