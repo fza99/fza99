@@ -1,23 +1,44 @@
 # :briefcase: Portfolio - Fatima Zahrae EL AMRANI
+
+🚀 **QA Automation Engineer | Continuous Learner | Code Quality Enthusiast | DevOps Enthusiast**
+
+👋 Hi there! I'm Fatima Zahrae, a passionate QA Automation Engineer with a knack for ensuring software quality through automated testing. I thrive in dynamic environments and am always eager to embrace new technologies and methodologies.
+
 ## :eye: About me
 As a Software QA Engineer, I am responsible for creating, executing, and automating test cases and scenarios for web-based applications, using tools such as Selenium, Java. I work with a scrum team to ensure that the product meets user story and design intent, and I review test results and spot check for efficiency and coverage.
 
 I have 3+ years of experience in both manual and automated testing, covering various types of testing such as functional, regression, integration, system, smoke, and user acceptance testing. I have also participated in collection workshops, analysed product requirements and specifications, and prepared campaigns and validated the final results before going into production. I have a Software Engineer degree from ENSIAS, where I studied web and mobile computing engineering, and I have completed multiple online courses and certifications in full-stack. I am passionate about learning new skills and applying them to daily tasks, improving productivity and quality. I am also a Global Ambassador at WomenTechNet, where I promote diversity and inclusion in the tech industry.
 
 ## :gear: Technical skills
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;\
-![Selinium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-05122A?style=flat&logo=Robot%20Framework)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+- Languages:  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+              ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+              ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
+- Automation Tools: ![Selenium WebDriver](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+                    ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=JUnit)&nbsp;
+                    ![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat&logo=TestNG)&nbsp;
+
+- Frameworks: ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-05122A?style=flat&logo=Robot%20Framework)&nbsp;
+              ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=Cucumber)&nbsp;
+              
+- CI/CD: ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
+         ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=GitLab%20CI)&nbsp;
+         ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+         ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+- Development Environments: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+                            ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+                            ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)
+        
+           
+- Test Management Tools: ![SQUASH TM](https://img.shields.io/badge/-SQUASH%20TM-05122A?style=flat&logo=SQUASH%20TM)
+                         ![TestLink](https://img.shields.io/badge/-TestLink-05122A?style=flat&logo=TestLink)
+
+ - Quality code: ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=SonarQube)
+                 ![Metrics](https://img.shields.io/badge/-metrics-05122A?style=flat&logo=metrics)
+                         
+
 
 ## :scroll: Certificates
 * ISTQB Certified Tester Foundation Level
