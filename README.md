@@ -42,7 +42,7 @@ I have 3+ years of experience in both manual and automated testing, covering var
 - Software Engineer, ENSIAS-Morocco
 
 ## 🏆 **Key Achievements:**
-- Successfully implemented automated test suites integrated into CI/CD pipelines, resulting in a [Percentage]% reduction in release cycles.
+- Successfully implemented automated test suites integrated into CI/CD pipeline.
 - Introduced and advocated for a culture of collaboration between QA and DevOps teams, fostering a more streamlined development lifecycle.
   
 ## :scroll: Certificates
